@@ -1,6 +1,6 @@
 name: Privado Scan
 on: push
-    
+     
 jobs:
   privado:
     runs-on: ubuntu-latest
