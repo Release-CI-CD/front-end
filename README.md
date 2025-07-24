@@ -11,7 +11,7 @@ Front-end application written in [Node.js](https://nodejs.org/en/) that puts tog
 ## Dependencies
 
 <table>
-  <thead>
+  <thead>  
     <tr>
       <th>Name</th>
       <th>Version</th>
