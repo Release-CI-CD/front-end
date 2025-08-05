@@ -83,7 +83,7 @@ make e2e
 
 # Use
 
-## Node 
+## Node
 
 `curl http://localhost:8081`
 
