@@ -15,7 +15,6 @@ var request      = require("request")
   , metrics      = require("./api/metrics")
   , app          = express()
 
-
 app.use(helpers.rewriteSlash);
 app.use(metrics);
 app.use(express.static("public"));
