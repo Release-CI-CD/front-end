@@ -95,4 +95,3 @@ make e2e
 
 `GROUP=weaveworksdemos COMMIT=test ./scripts/push.sh`
 
-
