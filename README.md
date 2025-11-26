@@ -75,7 +75,7 @@ make e2e
 ## Node
 
 `npm start`
- 
+
 ## Docker
 
 `make server`
