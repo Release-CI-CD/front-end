@@ -44,7 +44,7 @@
       return next(new Error("Must pass id of item to delete"), 400);
     }
 
-    console.log("Delete item from cart: " + req.url);
+    console.log("Delete item from cart:   " + req.url);
 
     var custId = helpers.getCustomerId(req, app.get("env"));
 
