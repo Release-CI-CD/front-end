@@ -79,7 +79,6 @@ make e2e
 `make server`
 
 # Use
-
 ## Node
 
 `curl http://localhost:8081`
