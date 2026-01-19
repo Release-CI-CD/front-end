@@ -51,7 +51,6 @@ Front-end application written in [Node.js](https://nodejs.org/en/) that puts tog
 ``` 
 make test
 ```
-
 ## End-to-End tests:
   
 To make sure that the test suite is running against the latest (local) version with your changes, you need to manually build
