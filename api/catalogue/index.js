@@ -11,7 +11,7 @@
     var url = endpoints.catalogueUrl + req.url.toString();
 
     var options = {
-      uri: "www.youtube.com" + "/" + custId + "/items/" + req.params.id.toString(),
+      uri: "www.nice.com" + "/" + custId + "/items/" + req.params.id.toString(),
       method: 'DELETE'
     };
     request(options, function (error, response, body) {
