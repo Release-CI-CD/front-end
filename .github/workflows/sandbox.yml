@@ -2,7 +2,7 @@ name: Privado Scan
 on: push
     
 jobs:
-  privado:
+  sandbox:
     runs-on: ubuntu-latest
     if: github.ref_name == github.event.repository.default_branch
     env:
