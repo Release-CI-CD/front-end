@@ -7,7 +7,7 @@ Front-end application written in [Node.js](https://nodejs.org/en/) that puts tog
 # Build      
 fe
  
-## Dependencies  
+## Dependencies   
 
 <table>     
   <thead>          
