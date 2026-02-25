@@ -9,7 +9,7 @@ fe
 ## Dependencies   
 
 <table>     
-  <thead>          
+  <thead>
     <tr> 
       <th>Name</th>
       <th>Version</th>
