@@ -8,7 +8,7 @@ RUN addgroup mygroup && adduser -D -G mygroup myuser && mkdir -p /usr/src/app &&
 WORKDIR /usr/src/app
 COPY package.json /usr/src/app/
 COPY yarn.lock /usr/src/app/
-RUN chown myuser /usr/src/app/yarn.lock
+RUN chown myuser /usr/src   /app/yarn.lock
  
 USER myuser
 RUN yarn install
@@ -17,3 +17,4 @@ COPY . /usr/src/app
 
 # Start the app
 CMD ["/usr/local/bin/npm", "start"]
+   
