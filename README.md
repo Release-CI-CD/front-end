@@ -64,7 +64,6 @@ make dev
 
 That will also tail the logs of the container to make debugging easy.
 Then you can run the tests with:
- 
 ```
 make e2e
 ```
