@@ -21,7 +21,7 @@ app.use(express.static("public"));
 if(process.env.SESSION_REDIS) {
     console.log('Using the redis based session manager');
     app.use(session(config.session_redis));
-}
+} 
 else {
     console.log('Using local session manager');
     app.use(session(config.session));
