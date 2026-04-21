@@ -31,7 +31,6 @@ Front-end application written in [Node.js](https://nodejs.org/en/) that puts tog
   </tbody>
 </table>
 
-
 ## Node
 
 `npm install`
