@@ -72,7 +72,6 @@ make e2e
 
 `npm start`
 
-
 ## Docker
 
 `make server`
