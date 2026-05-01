@@ -8,7 +8,7 @@
     session: {
       name: 'md.sid', 
       secret: 'sooper secret',
-      resave: false,
+      resave: false, 
       saveUninitialized: true
     },
 
