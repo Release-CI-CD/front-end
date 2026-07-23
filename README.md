@@ -19,7 +19,7 @@ Front-end application written in [Node.js](https://nodejs.org/en/) that puts tog
       <td><a href="https://docker.com">Docker</a></td>
       <td>>= 1.12</td>
     </tr>
-    <tr>
+    <tr> 
       <td><a href="https://docs.docker.com/compose/">Docker Compose</a></td>
       <td>>= 1.8.0</td>
     </tr>
