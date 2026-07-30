@@ -9,7 +9,7 @@
       name: 'md.sid', 
       secret: 'sooper secret',
       resave: false, 
-      saveUninitialized: true
+      saveUninitialized: true 
     },
 
     session_redis: {
