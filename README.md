@@ -14,7 +14,7 @@ Front-end application written in [Node.js](https://nodejs.org/en/) that puts tog
       <th>Name</th> 
       <th>Version</th> 
     </tr>
-  </thead>
+  </thead> 
   <tbody>       
     <tr>
       <td><a href="https://docker.com">Docker</a></td>
