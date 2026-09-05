@@ -85,7 +85,6 @@ make e2e
 ## Docker Compose
 
 `curl http://localhost:8080`
-
 # Push
  
 `GROUP=weaveworksdemos COMMIT=test ./scripts/push.sh`
