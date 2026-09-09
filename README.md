@@ -80,7 +80,6 @@ make e2e
 ## Node
 
 `curl http://localhost:8081`
-
 ## Docker Compose
 
 `curl http://localhost:8080`
