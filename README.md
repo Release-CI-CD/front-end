@@ -12,7 +12,7 @@ Front-end application written in [Node.js](https://nodejs.org/en/) that puts tog
   <thead> 
     <tr>      
       <th>Name</th> 
-      <th>Version</th> 
+      <th>Version</th>  
     </tr>
   </thead> 
   <tbody>         
