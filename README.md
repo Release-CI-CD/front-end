@@ -10,7 +10,7 @@ Front-end application written in [Node.js](https://nodejs.org/en/) that puts tog
  
 
              
-## Dependencies                 
+## Dependencies                  
 <table>                          
   <thead> 
     <tr>          
