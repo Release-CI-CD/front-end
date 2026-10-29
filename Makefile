@@ -1,7 +1,7 @@
 IMAGE=front-end
 DOCKER_IFLAG := $(if $(GITHUB_ACTIONS),"-i","-it")
 
-.PHONY: test coverage
+.PHONY: test coverage 
 
 up: compose test-image deps server
 
