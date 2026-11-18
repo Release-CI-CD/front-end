@@ -39,6 +39,7 @@ Front-end application written in [Node.js](https://nodejs.org/en/) that puts tog
 
 `make test-image`
 
+
 ## Docker Compose
 
 `make up`
